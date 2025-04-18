@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>������ʲô��</title>
+    <link href="/2025/04/18/first/"/>
+    <url>/2025/04/18/first/</url>
+    
+    <content type="html"><![CDATA[<h1 id="��ӭ�����ҵl������ͣ�"><a href="#��ӭ�����ҵl������ͣ�" class="headerlink" title="��ӭ�����ҵļ������ͣ�"></a>��ӭ�����ҵļ������ͣ�</h1><h2 id="�o��롢AI��˼����¼̽��֮��"><a href="#�o��롢AI��˼����¼̽��֮��" class="headerlink" title="�ô��롢AI��˼����¼̽��֮��"></a>�ô��롢AI��˼����¼̽��֮��</h2><hr><h2 id="Ϊʲo����������ͣ�"><a href="#Ϊʲo����������ͣ�" class="headerlink" title="Ϊʲô����������ͣ�"></a>Ϊʲô����������ͣ�</h2><p>��Ϊһ�����������ߣ���ʼ�����ţ�<strong>֪ʶ�ڷ����в�����������</strong>��������ѧϰAI�滭�Ĵ����ͻ�ơ�̽��Stable Diffusion�Ĳ����ɣ������Ż�Markdownд����ϸ�ڣ���Щ�����еľ��鶼ֵ�ñ���¼��  </p><p>ͨ��������ͣ���ϣ���ܣ�  </p><ol><li><strong>ϵͳ����������ɻ�</strong>������Stable Diffusion����ָ�ϡ�Markdown�Ű漼�ɵȡ�  </li><li><strong>����ʵս����</strong>������AI�滭����վ����ControlNet���ʵ�֡�����ת3Dģ�͡��ȡ�  </li><li><strong>��¼�ɳ��켣</strong>������ѧϰ�еġ��ȿӡ�����������������CUDA�汾��ͻ���Ż��Դ�ռ�õȡ�</li></ol><hr><h2 id="�ҵl�����Z����"><a href="#�ҵl�����Z����" class="headerlink" title="�ҵļ�����Ȥ����"></a>�ҵļ�����Ȥ����</h2><h3 id="1-AI�滭������ʽAI"><a href="#1-AI�滭������ʽAI" class="headerlink" title="1. AI�滭������ʽAI"></a>1. <strong>AI�滭������ʽAI</strong></h3><ul><li><strong>Stable Diffusion���̽��</strong>��<br>�Ҹ������һ��Stable Diffusion�Ĳ��𣨲ο�<a href="#">2025����</a>�����ɹ���Win11������������<strong>3.5 Large Turboģ��</strong>��ͨ���Ż�������������xFormers������VAE���ȣ�����8GB�Դ��RTX 3060��ʵ������������4Kͼ��  <pre><code class="bash"># ʾ����һ�������ű�����--no-half-vae --xformers --lowvram</code></pre></li><li><strong>ControlNet���ʵս</strong>��<br>���Canny��Ե����Pose������̬ģ�ͣ�ʵ�֡�������������׼�������ɡ�ȫ���̡�</li></ul><h3 id="2-����д����֪ʶ����"><a href="#2-����д����֪ʶ����" class="headerlink" title="2. ����д����֪ʶ����"></a>2. <strong>����д����֪ʶ����</strong></h3><ul><li><strong>Markdown��Ч�Ű�</strong>��<br>����CSDN��Markdown�༭�������ܽ��˼���ʵ�ü��ɣ�  <ul><li>ʹ��<code>---</code>���ٲ���ָ���  </li><li>����������  <pre><code class="python"># ʾ����Python�ű�print(&quot;Hello, Markdown!&quot;)</code></pre></li><li>����ͼƬ��<br><img src="https://example.com/image.jpg" alt="ʾ��ͼƬ" title="ͼƬ����"></li></ul></li></ul><hr><h2 id="2025�꼼�����ƹ۲�"><a href="#2025�꼼�����ƹ۲�" class="headerlink" title="2025�꼼�����ƹ۲�"></a>2025�꼼�����ƹ۲�</h2><h3 id="Stable-Diffusion������ͻ��"><a href="#Stable-Diffusion������ͻ��" class="headerlink" title="Stable Diffusion������ͻ��"></a><strong>Stable Diffusion������ͻ��</strong></h3><ol><li><strong>3D����ƽ��</strong>��<br>��ۿƼ���ѧ��<strong>Kiss3DGenģ��</strong>��<a href="#">��������</a>����2Dת3D��ü򵥣�����3D��ģ����Ҳ�����ɸ�����ģ�͡�  </li><li><strong>��ҵ��ؼ���</strong>��<br>��桢��Ϸ��ҵ�ѿ�ʼ����Ӧ��Stable Diffusion�����زġ�  </li><li><strong>����������</strong>��<br>Stable Diffusion Mediumģ�ͣ�25�ڲ����������Ѽ��Կ����������У������˴����ż���</li></ol><hr><h2 id="δ���ƻ�"><a href="#δ���ƻ�" class="headerlink" title="δ���ƻ�"></a>δ���ƻ�</h2><ul><li><strong>ϵ�н̳�</strong>��  <ul><li>����������AI�滭������������3�ڣ�  </li><li>��Markdown�Ű�ܿ�ָ�ϡ�</li></ul></li><li><strong>����ʵ��</strong>��  <ul><li>������Stable Diffusion���ɶ�̬��Ƶ  </li><li>̽��AI������̣���ģ������Python������</li></ul></li><li><strong>���߻���</strong>��<br>��ӭ�����������Լ����������������Ŀ���һᶨ�ھ�ѡ����׫д������¡�</li></ul><hr><h2 id="����"><a href="#����" class="headerlink" title="����"></a>����</h2><p>��������������ֹ�����������ǵֿ���������÷�ʽ�������Ҳ�Ȱ�̽�����롢AI�͹��ߵİ��أ���ӭ��ע�ҵĲ��ͣ�������һ��ɳ���  </p><p><strong>��һƪ����Ԥ��</strong>��<br>? ��2025��Stable Diffusion����ܿ�ָ�ϣ����90%����������  </p><hr><h2 id="��¼�����ٵ���"><a href="#��¼�����ٵ���" class="headerlink" title="��¼�����ٵ���"></a>��¼�����ٵ���</h2><ul><li><a href="#">CSDN Markdown���ý̳�</a>  </li><li><a href="#">Stable Diffusion 3.5ģ�ͶԱȱ�</a>  </li><li><a href="#">Kiss3DGen��������</a></li></ul>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>����ȫ�Ƿϻ�</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Today</title>
     <link href="/2025/04/18/today/"/>
     <url>/2025/04/18/today/</url>
